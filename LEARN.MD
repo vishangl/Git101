@@ -22,7 +22,7 @@ This is a normal text
 
 ## cafes in vadodara
 
-- The Brewery
+- The Brewery[^1]
     1. chicken leg piece
         - half piece
         - full leg piece
@@ -66,8 +66,9 @@ for i in range(10):
 made with 😊❤️❤️❤️
 
 - [ ] item 1
-- [ ] item 2
+- [x] item 2
 - [ ] item 3
 
+- [^1]: This is a sample node
 
 
